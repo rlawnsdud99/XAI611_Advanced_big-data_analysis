@@ -1,9 +1,9 @@
-### XAI606 Course Project Description
+### XAI611 Course Project Description
 
 ---
 
 #### I. Project Title
-**Optimizing Subject Independent Classification Performance in EMG-Based Gesture Recognition**
+**Optimizing Subject Independent Classification Performance in class imbalanced, EMG-Based Gesture Recognition**
 
 ---
 
